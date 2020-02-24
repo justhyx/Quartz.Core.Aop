@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quartz.Core.Aop.Test", "Quartz.Core.Aop.Test\Quartz.Core.Aop.Test.csproj", "{D8A1E6E8-40A1-4BAC-8451-179EAB7869B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartz.Core.Aop.Extension", "Quartz.Core.Aop.Extension\Quartz.Core.Aop.Extension.csproj", "{DD780764-5F36-41E2-AC2A-BBF9D8FDBBE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A1E6E8-40A1-4BAC-8451-179EAB7869B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A1E6E8-40A1-4BAC-8451-179EAB7869B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A1E6E8-40A1-4BAC-8451-179EAB7869B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A1E6E8-40A1-4BAC-8451-179EAB7869B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD780764-5F36-41E2-AC2A-BBF9D8FDBBE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD780764-5F36-41E2-AC2A-BBF9D8FDBBE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD780764-5F36-41E2-AC2A-BBF9D8FDBBE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD780764-5F36-41E2-AC2A-BBF9D8FDBBE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1D1FC88-E098-4907-813C-3152DD4FA011}
+	EndGlobalSection
+EndGlobal
